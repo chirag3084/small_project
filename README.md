@@ -3,5 +3,5 @@
 ### About
 
 `My Django` is a small app was developed using `Django`
-# Tech Stack :- Django,HTML
-# Happy Learning
+Tech Stack :- Django,HTML
+Happy Learning
